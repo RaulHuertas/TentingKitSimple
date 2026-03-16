@@ -18,5 +18,6 @@ A support to add 30° to some dactyl keyboards
 - Use the M4 bolt to fix the support
 - Repeat for the other halve
 
-![Actual result](/images/image1.jpg)
-![Actual result](/images/image2.jpg)
+![Actual result](images/image1.jpg)
+![Actual result](images/image2.jpg)
+
