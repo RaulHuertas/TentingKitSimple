@@ -16,5 +16,7 @@ A support to add 30° to some dactyl keyboards
 - Remove the M4 bolt at the center of the inner sides of each halve. 
 - Place the support
 - Use the M4 bolt to fix the support
+- Repeat for the other halve
 
-![Actual result](https://myoctocat.com/assets/images/base-octocat.svg)
+![Actual result](/images/image1.jpg)
+![Actual result](/images/image2.jpg)
